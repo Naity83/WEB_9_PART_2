@@ -1,0 +1,4 @@
+pipenv install scrapy
+Если хотим создать проект:
+scrapy startproject infowar - создаст проект под названием infowar
+cd .\infowar\ -перейти в эту папку
